@@ -11,6 +11,11 @@
 
  *Bare metal*:- The fresh server          without (os)
 
+
+2. ## Newtworking
+ Networking is the process of making connections and building relationships
+   
+
    
     
    
