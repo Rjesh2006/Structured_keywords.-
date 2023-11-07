@@ -137,8 +137,28 @@ he Public key infrastructure (PKI) is the set of hardware, software,policies,pro
 
   - an IT system, component, or            application can operate at a high      level, continuously, without           intervention, for a given time         period.
 
-  - Distributed Systems (Clusters):- 
+  - **Distributed Systems (Clusters)**:-
      a computer system, a cluster is a     group of servers and other             resources that act like a single       system and enable high                 availability, load balancing and       parallel processing.
+
+
+  - **Scaling**:-  the ability of         organization (or a system, such as     a computer network) to perform well    under an increased or expanding        workload
+
+    
+  - **Autoscaling**:- Auto Scaling allows your application to always have the compute capacity needed and reduces the need to manually monitor server capacity.
+
+    ![image](https://github.com/Rjesh2006/Managed_keywords/assets/143868643/b8dd669a-f179-4852-87d8-1d5eddda7108)
+
+
+     *There are two basic types of  scalability in cloud computing: vertical and horizontal scaling.--*
+
+    - Vertical scaling :Vertical             scaling, often known as “scaling       up,” is the process of                 increasing the power of an             existing system,
+   
+    - Horizontal Scaling :                  "horizontally scalable" system is       one that can increase capacity         by adding more computers to the        system.
+           
+
+
+
+
 
 
    
