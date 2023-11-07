@@ -135,6 +135,13 @@ he Public key infrastructure (PKI) is the set of hardware, software,policies,pro
 
    ## High avaibillity
 
+  - an IT system, component, or            application can operate at a high      level, continuously, without           intervention, for a given time         period.
+
+  - 
+
+
+   
+
    
 
 
