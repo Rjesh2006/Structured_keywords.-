@@ -6,8 +6,9 @@
     access to a network via a user interface, specialized software, 
     
   **VMs**:- virtual machine is used to perform task on A VM is a virtualized instance of a computer.
-      
-            - ovs:open virtual switch that is virtual switch to communicate with network 
+
+
+   *ovs*:open virtual switch that is virtual switch to communicate with network 
             
   **Bare metal**:- The fresh server without (os)
 
