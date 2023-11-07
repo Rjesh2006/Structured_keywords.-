@@ -2,13 +2,13 @@
 1. ## Computing
 
   **Host**
-    host is any hardware device that has the capability of permitting 
-    access to a network via a user interface, specialized software, 
+    host is any hardware device that       has the capability of permitting 
+    access to a network via a user         interface, specialized software.
     
-  **VMs**:- virtual machine is used to perform task on A VM is a virtualized instance of a computer.
+  **VMs**:- virtual machine is used to     perform task on A VM is a              virtualized instance of a computer.
 
 
-   *ovs*:open virtual switch that is virtual switch to communicate with network 
+   **Ovs**:- open virtual switch that is virtual switch to communicate with network 
             
   **Bare metal**:- The fresh server without (os)
 
@@ -16,11 +16,11 @@
 2. ## Newtworking
 
    
-    **osi model**:-     seven layer of computer system that communicate  over the network.
+    **osi model**:- seven layer of computer system that communicate  over the network.
    
     **Cisdr Notaion**:- represents an IP address and a suffix that indicates network identifier bits in a specified format.
    
-    **Subneting**:-     Subnetting is the process of creating a subnetwork (also known as a subnet) within a network.
+    **Subneting**:-  Subnetting is the process of creating a subnetwork (also known as a subnet) within a network.
    
     **public network**:- A public network is a type of network wherein anyone, namely the general public, has access and through it can 
                      connect to other networks or the Internet
@@ -45,78 +45,84 @@
     
  
 4. ## Storage
-      1. **SAN**:-A storage area network (SAN) is a dedicated high-speed network or subnetwork
-                  that interconnects and presents shared pools of storage devices to multiple servers
+      - . **SAN**:-A storage area network (SAN) is a dedicated high-speed network or subnetworkthat interconnects and presents shared pools of storage devices to multiple servers
    
-      2..**BACKUPS**:- Backup storage is the supplementary, off-device storage of files and application data.
-   
-   
-            ### types of storage :-![image](https://github.com/Rjesh2006/Managed_keywords/assets/143868643/9b789b6b-a6d1-4d25-bf13-b9d3c5d68433)
+      - .**BACKUPS**:- Backup storage is the supplementary, off-device storage of files and application data.
    
    
-          - .**BACKUPS**:- Backup storage is the supplementary, off-device storage of files and application data.
+  ### types of storage :-
+
+![image](https://github.com/Rjesh2006/Managed_keywords/assets/143868643/9b789b6b-a6d1-4d25-bf13-b9d3c5d68433)
+   
+   
+   - **BACKUPS**:- Backup storage is the supplementary, off-device storage of files and application data.
       
-          - .**OBJECT STORAGE**:- a computer data storage architecture designed to handle large amounts of Unstructured data.
+   - **OBJECT STORAGE**:- a computer data storage architecture designed to handle large amounts of Unstructured data.
       
-          - .**BLOCK STORAGE**:-a computer data storage architecture designed to handle large amounts of STRUCTURED  data.
+   - .**BLOCK STORAGE**:-a computer data storage architecture designed to handle large amounts of STRUCTURED  data.
         
-          - **file storage**:-File storage is a hierarchical data storage methodology that stores data in files, organize files in folder.
+   - **file storage**:-File storage is a hierarchical data storage methodology that stores data in files, organize files in folder.
          
          
-      4.**Database**:-A database is an organized collection of structured information.
-                    **types of database **:-![image](https://github.com/Rjesh2006/Managed_keywords/assets/143868643/ca03aef3-8000-4d6c-bdcf-f6757274b91b)
+   3.**Database**:-A database is an organized collection of structured information.
+      
+   *types of database*:-
+   ![image](https://github.com/Rjesh2006/Managed_keywords/assets/143868643/ca03aef3-8000-4d6c-bdcf-f6757274b91b)
    
-      5.**key value storage**:-Key-value stores are used for use cases where applications will require
+   4.**key value storage**:-Key-value stores are used for use cases where applications will require
                                values to be retrieved fast via keys, like maps or dictionaries in programming languages.
    
-      6.**Ceph**:-Ceph is an open source storage platform that is designed to allow object, block, and file storage from a single system.
+   6.**Ceph**:-Ceph is an open source storage platform that is designed to allow object, block, and file storage from a single system.
       
 
 
  5. ## Security
-      1.**SSL certificate**:- A secure sockets layer (SSL) certificate refers to a file hosted within the webpage's origin server,
-                              which holds the data that browsers access when you are viewing and interacting with the page
+ 
+      1.**SSL certificate**:- A secure sockets layer (SSL) certificate refers to a file hosted within the webpage's origin server, which holds the data that browsers access when you are viewing and interacting with the page
     
-                              *SSL CERIFICATE ALGORITHIM'S*:- EIGamal, RSA, DSA, Elliptic curve techniques and PKCS.
+      - *SSL CERIFICATE ALGORITHIM'S*:-
+   
+   EIGamal, RSA, DSA, Elliptic curve b    techniques and PKCS.
    
    
-     2.**pki INFASTRUCTURES**:-he Public key infrastructure (PKI) is the set of hardware, software, policies, processes,
-                                and procedures required to create, manage, distribute, use, store, and revoke digital certificates and public-keys.
+   **pki INFASTRUCTURES**:   
+he Public key infrastructure (PKI) is the set of hardware, software,policies,processes,andproceduresrequiredtocreate,manage,distribute, use, store, and revoke             digital certificates and public-       keys.
      
    
-     3.**ZERO TRUST SECURITY**:-Zero Trust security means that no one is trusted by default from inside or outside the network, 
-                              and verification is required from everyone trying to gain access to resources on the network. 
+   3.**ZERO TRUST SECURITY**:-Zero   Trust security means that no one is trusted by default from inside or outside the network,and verification is required from everyone trying to gain access to resources on the network. 
    
    
-     4.**VPN**:-Vrtualized private network 
-              Usecases-  protects its users by encrypting their data and masking their IP address, leaving their browsing history and location.
+   4.**VPN**:-(Vrtualized private                    network)
+     
+     Usecases-  protects its users by       encrypting their data and masking      their IP address, leaving their        browsing history and location.
    
    
 6. ## LOAD BALANCER
-    - its use to manage the traffic  of any web server or application by using specified load balancer type.
-    -  USE CASES:- Load balancers improve application performance by increasing response time and reducing network latency.
+    - its use to manage the traffic          of any web server or application       by using specified load balancer       type.
+  
+      
+    -  USE CASES:- Load balancers             improve application performance        by increasing response time and        reducing network latency.
        
-    **types of load balancing**:-CLASSIC LOAD BALANCER, APPLICATION LOAD BALANCER, NETWORK LOAD BALANCER
+    **types of load balancing**:-           1.CLASSIC LOAD BALANCER,               2. APPLICATION LOAD BALANCER,          3.  NETWORK LOAD BALANCER
 
    
-       - *CLASSIC LOAD BALANCER* :- itS simply used for Ec2 instance load balancing.
+       - *CLASSIC LOAD BALANCER* :-             itS simply used for Ec2                instance load balancing.
          
-       - *APPLICATION LOAD BALANCER* : in a single term its used to balance the traffic of application.
+       - *APPLICATION LOAD BALANCER* :          in a single term its used to           balance the traffic of                 application.
          
-       - *NETWORK LOAD BALANCER* :  The load balancer distributes incoming traffic across multiple targets, such as Amazon EC2 instances. 
+       - *NETWORK LOAD BALANCER* :              The load balancer distributes          incoming traffic across                multiple targets, such as              Amazon EC2 instances. 
 
-   **Load balancing algorithim**:-A load balancing algorithm is the set of rules that a load balancer follows to determine
-                                  the best server for each of the different client requests.
+   **Load balancing algorithim**:-A       load balancing algorithm is the set    of rules that a load balancer          follows to determine the best          server for each of the different       client requests.
    
-                                  *categories*:-Round-robin method. 
-                                                IP hash method. 
-                                                Least connection method.
-                                                Weighted least connection method. 
-                                                Least response time method.
-                                                Resource-based method.
+   *Categories*:-Round-robin method. 
+                                               (1.) IP hash method. 
+                                               (2.) Least connection method.
+                                               (3.) Weighted least connection              method. 
+        (4.)Least response time method.
+                                               (5.) Resource-based method.
    
-   **Reverseproxy**:-A reverse proxy is used to provide load balancing services and, increasingly,
-                     to enforce web application security at strategic insertion points in a network through web application firewalls
+   **Reverseproxy**:-A reverse proxy      is used to provide load balancing      services and, increasingly,      
+   to enforce web application security    at strategic insertion points in a     network through web application        firewalls.
 
 
 
