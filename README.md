@@ -8,9 +8,9 @@
   **VMs**:- virtual machine is used to     perform task on A VM is a              virtualized instance of a computer.
 
 
-   **Ovs**:- open virtual switch that is virtual switch to communicate with network 
+   **Ovs**:- open virtual switch that     is virtual switch to communicate       with network 
             
-  **Bare metal**:- The fresh server without (os)
+   **Bare metal**:- The fresh server        without (os)
 
 
 2. ## Newtworking
@@ -50,7 +50,7 @@
       - .**BACKUPS**:- Backup storage is the supplementary, off-device storage of files and application data.
    
    
-  ### types of storage :-
+  ### types of storage :--
 
 ![image](https://github.com/Rjesh2006/Managed_keywords/assets/143868643/9b789b6b-a6d1-4d25-bf13-b9d3c5d68433)
    
@@ -64,15 +64,15 @@
    - **file storage**:-File storage is a hierarchical data storage methodology that stores data in files, organize files in folder.
          
          
-   3.**Database**:-A database is an organized collection of structured information.
+   - **Database**:-A database is an organized collection of structured information.
       
    *types of database*:-
    ![image](https://github.com/Rjesh2006/Managed_keywords/assets/143868643/ca03aef3-8000-4d6c-bdcf-f6757274b91b)
    
-   4.**key value storage**:-Key-value stores are used for use cases where applications will require
+   - **key value storage**:-Key-value stores are used for use cases where applications will require
                                values to be retrieved fast via keys, like maps or dictionaries in programming languages.
    
-   6.**Ceph**:-Ceph is an open source storage platform that is designed to allow object, block, and file storage from a single system.
+   - **Ceph**:-Ceph is an open source storage platform that is designed to allow object, block, and file storage from a single system.
       
 
 
@@ -80,9 +80,9 @@
  
     - **SSL certificate**:- A secure sockets layer (SSL) certificate refers to a file hosted within the webpage's origin server, which holds the data that browsers access when you are viewing and interacting with the page
     
-      - *SSL CERIFICATE ALGORITHIM'S*:-
-   
-   EIGamal, RSA, DSA, Elliptic curve b    techniques and PKCS.
+     - *SSL CERIFICATE ALGORITHIM'S*:-
+       
+           EIGamal, RSA, DSA, Elliptic            curve techniques andPKCS.
    
    
    - **pki INFASTRUCTURES**:   
@@ -101,12 +101,9 @@ he Public key infrastructure (PKI) is the set of hardware, software,policies,pro
     - its use to manage the traffic          of any web server or application       by using specified load balancer       type.
   
       
-    -  USE CASES:- Load balancers             improve application performance        by increasing response time and        reducing network latency.
+    -  *USE CASES: Load balancers             improve applicationerformance          by increasing response time            and reducing network latency.
        
-    - **types of load balancing**:-
-      
-          1.CLASSIC LOAD BALANCER,               2.APPLICATION LOAD BALANCER,           3.NETWORK LOAD BALANCER
-
+    - **types of load balancing:--**
    
        - *CLASSIC LOAD BALANCER* :-             itS simply used for Ec2                instance load balancing
      
@@ -120,9 +117,8 @@ he Public key infrastructure (PKI) is the set of hardware, software,policies,pro
 
   - **Load balancing algorithim**:-A       load balancing algorithm isthe set     of rules that a load balancer          follows to determine the best          server for each of the different       client requests.
    
-       - *Categories*:-
-   
-
+     - *Categories*:-
+       
         (1.)   Round-robin method. 
                                                (2.) IP hash method. 
                                                (3.) Least connection method.
