@@ -99,7 +99,6 @@ he Public key infrastructure (PKI) is the set of hardware, software,policies,pro
    
 6. ## LOAD BALANCER
 
-
  -   its use to manage the traffic          of any web server or application       by using specified load balancer       type.
   
       
