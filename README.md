@@ -137,7 +137,8 @@ he Public key infrastructure (PKI) is the set of hardware, software,policies,pro
 
   - an IT system, component, or            application can operate at a high      level, continuously, without           intervention, for a given time         period.
 
-  - 
+  - Distributed Systems (Clusters):- 
+     a computer system, a cluster is a     group of servers and other             resources that act like a single       system and enable high                 availability, load balancing and       parallel processing.
 
 
    
