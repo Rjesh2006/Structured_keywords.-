@@ -78,21 +78,21 @@
 
  5. ## Security
  
-      1.**SSL certificate**:- A secure sockets layer (SSL) certificate refers to a file hosted within the webpage's origin server, which holds the data that browsers access when you are viewing and interacting with the page
+    - **SSL certificate**:- A secure sockets layer (SSL) certificate refers to a file hosted within the webpage's origin server, which holds the data that browsers access when you are viewing and interacting with the page
     
       - *SSL CERIFICATE ALGORITHIM'S*:-
    
    EIGamal, RSA, DSA, Elliptic curve b    techniques and PKCS.
    
    
-   **pki INFASTRUCTURES**:   
+   - **pki INFASTRUCTURES**:   
 he Public key infrastructure (PKI) is the set of hardware, software,policies,processes,andproceduresrequiredtocreate,manage,distribute, use, store, and revoke             digital certificates and public-       keys.
      
    
-   3.**ZERO TRUST SECURITY**:-Zero   Trust security means that no one is trusted by default from inside or outside the network,and verification is required from everyone trying to gain access to resources on the network. 
+   - **ZERO TRUST SECURITY**:-Zero   Trust security means that no one is trusted by default from inside or outside the network,and verification is required from everyone trying to gain access to resources on the network. 
    
    
-   4.**VPN**:-(Vrtualized private                    network)
+   - **VPN**:-(Vrtualized private                    network)
      
      Usecases-  protects its users by       encrypting their data and masking      their IP address, leaving their        browsing history and location.
    
@@ -103,26 +103,34 @@ he Public key infrastructure (PKI) is the set of hardware, software,policies,pro
       
     -  USE CASES:- Load balancers             improve application performance        by increasing response time and        reducing network latency.
        
-    **types of load balancing**:-           1.CLASSIC LOAD BALANCER,               2. APPLICATION LOAD BALANCER,          3.  NETWORK LOAD BALANCER
+    - **types of load balancing**:-
+      
+          1.CLASSIC LOAD BALANCER,               2.APPLICATION LOAD BALANCER,           3.NETWORK LOAD BALANCER
 
    
-       - *CLASSIC LOAD BALANCER* :-             itS simply used for Ec2                instance load balancing.
+       - *CLASSIC LOAD BALANCER* :-             itS simply used for Ec2                instance load balancing
+     
+         
          
        - *APPLICATION LOAD BALANCER* :          in a single term its used to           balance the traffic of                 application.
          
+         
        - *NETWORK LOAD BALANCER* :              The load balancer distributes          incoming traffic across                multiple targets, such as              Amazon EC2 instances. 
 
-   **Load balancing algorithim**:-A       load balancing algorithm is the set    of rules that a load balancer          follows to determine the best          server for each of the different       client requests.
+
+  - **Load balancing algorithim**:-A       load balancing algorithm isthe set     of rules that a load balancer          follows to determine the best          server for each of the different       client requests.
    
-   *Categories*:-Round-robin method. 
-                                               (1.) IP hash method. 
-                                               (2.) Least connection method.
-                                               (3.) Weighted least connection              method. 
-        (4.)Least response time method.
-                                               (5.) Resource-based method.
+       - *Categories*:-
    
-   **Reverseproxy**:-A reverse proxy      is used to provide load balancing      services and, increasingly,      
-   to enforce web application security    at strategic insertion points in a     network through web application        firewalls.
+
+        (1.)   Round-robin method. 
+                                               (2.) IP hash method. 
+                                               (3.) Least connection method.
+                                               (4.) Weighted least connection              method. 
+        (5.)Least response time method.
+                                               (6.) Resource-based method.
+   
+   - **Reverseproxy**:-A reverse            proxy is used to provide load          balancing services and,                increasingly,  to enforce web          application security at                strategic insertion points in a        network through web application        firewalls.
 
 
 
