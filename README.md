@@ -26,24 +26,65 @@
  
  Static/dynamic ips:- A static IP address is a 32 bit number assigned to a computer as an address on the internet
 
- firewell:-
+ firewell:- A firewall is a network security device, either hardware or software-based.
 
- proxy:-
+ proxy:-A proxy server is a system or router that provides a gateway between users and the internet. 
 
  NAT:-Network address Tanslaion
 
  VPN:-A VPN (virtual private network) is a service that creates a safe, encrypted online connection.
 
- ipv4:-
+ ipv4:-  (IPv4) is the fourth version of the Internet Protocol (IP).
 
- privte Dns:-
+ privte Dns:- The Private DNS allows you to have custom nameservers that you can use with your domain names. 
 
- ipv6 protocol:-
+ ipv6 protocol:- (Internet Protocol version 6) is the sixth revision to the Internet Protocol and the successor to IPv4.
  
  
+3. ## Storage
+   1. **SAN**:-A storage area network (SAN) is a dedicated high-speed network or subnetwork
+               that interconnects and presents shared pools of storage devices to multiple servers
+
+   2.    - .**BACKUPS**:- Backup storage is the supplementary, off-device storage of files and application data.
+
+
+   3.###types of storage :-![image](https://github.com/Rjesh2006/Managed_keywords/assets/143868643/9b789b6b-a6d1-4d25-bf13-b9d3c5d68433)
+
+
+       - .**BACKUPS**:- Backup storage is the supplementary, off-device storage of files and application data.
    
+       - .**OBJECT STORAGE**:- a computer data storage architecture designed to handle large amounts of Unstructured data.
+   
+       - .**BLOCK STORAGE**:-a computer data storage architecture designed to handle large amounts of STRUCTURED  data.
+     
+       - **file storage**:-File storage is a hierarchical data storage methodology that stores data in files, organizes files in folders.
+      
+      
+   4.**Database**:-A database is an organized collection of structured information.
+                 **types of database **:-![image](https://github.com/Rjesh2006/Managed_keywords/assets/143868643/ca03aef3-8000-4d6c-bdcf-f6757274b91b)
+
+   5.**key value storage**:-Key-value stores are used for use cases where applications will require
+                            values to be retrieved fast via keys, like maps or dictionaries in programming languages.
+
+   6.**Ceph**:-Ceph is an open source storage platform that is designed to allow object, block, and file storage from a single system.
    
 
-   
-    
-   
+4. ## Security
+   1.**SSL certificate**:- A secure sockets layer (SSL) certificate refers to a file hosted within the webpage's origin server,
+                           which holds the data that browsers access when you are viewing and interacting with the page
+
+                         - **SSL CERIFICATE ALGORITHIM'S**:- EIGamal, RSA, DSA, Elliptic curve techniques and PKCS.
+
+
+  2.**pki INFASTRUCTURES**:-he Public key infrastructure (PKI) is the set of hardware, software, policies, processes,
+                             and procedures required to create, manage, distribute, use, store, and revoke digital certificates and public-keys.
+  
+
+  3.**ZERO TRUST SECURITY**:-Zero Trust security means that no one is trusted by default from inside or outside the network, 
+                           and verification is required from everyone trying to gain access to resources on the network. 
+
+
+
+
+
+
