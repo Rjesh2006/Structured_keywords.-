@@ -78,7 +78,7 @@
 
  5. ## Security
  
-    - **SSL certificate**:- A secure sockets layer (SSL) certificate refers to a file hosted within the webpage's origin server, which holds the data that browsers access when you are viewing and interacting with the page
+  - **SSL certificate**:- A secure sockets layer (SSL) certificate refers to a file hosted within the webpage's origin server, which holds the data that browsers access when you are viewing and interacting with the page
     
      - *SSL CERIFICATE ALGORITHIM'S*:-
        
