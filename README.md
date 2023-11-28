@@ -1,6 +1,6 @@
 # [Structured keywords --- 🗝️]()
 
-1. ##[ Computing]()
+## [ Computing]()
 
   **Host**
     host is any hardware device that       has the capability of permitting 
