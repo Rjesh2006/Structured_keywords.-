@@ -1,6 +1,6 @@
 # [Structured keywords --- 🗝️]()
 
-1. ## Computing
+1. ##[ Computing]()
 
   **Host**
     host is any hardware device that       has the capability of permitting 
@@ -14,7 +14,7 @@
    **Bare metal**:- The fresh server        without (os)
 
 
-2. ## Newtworking
+2. ## [Newtworking]()
 
    
     **osi model**:- seven layer of computer system that communicate  over the network.
@@ -51,7 +51,7 @@
       - .**BACKUPS**:- Backup storage is the supplementary, off-device storage of files and application data.
    
    
-  ### types of storage :--
+  ### [types of storage :--]()
 
 ![image](https://github.com/Rjesh2006/Managed_keywords/assets/143868643/9b789b6b-a6d1-4d25-bf13-b9d3c5d68433)
    
@@ -77,7 +77,7 @@
       
 
 
- 5. ## Security
+ 5. ## [Security]()
  
   - **SSL certificate**:- A secure sockets layer (SSL) certificate refers to a file hosted within the webpage's origin server, which holds the data that browsers access when you are viewing and interacting with the page
     
@@ -98,7 +98,7 @@ he Public key infrastructure (PKI) is the set of hardware, software,policies,pro
      Usecases-  protects its users by       encrypting their data and masking      their IP address, leaving their        browsing history and location.
    
    
-6. ## LOAD BALANCER
+6. ## [LOAD BALANCER]()
 
  -   its use to manage the traffic          of any web server or application       by using specified load balancer       type.
   
@@ -133,7 +133,7 @@ he Public key infrastructure (PKI) is the set of hardware, software,policies,pro
 
 
 
- 7.  ## High avaibillity
+ 7.  ## [High avaibillity]()
 
   - an IT system, component, or            application can operate at a high      level, continuously, without           intervention, for a given time         period.
 
