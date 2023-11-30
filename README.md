@@ -119,6 +119,8 @@ he Public key infrastructure (PKI) is the set of hardware, software,policies,pro
 
 
  - **Load balancing algorithim**:-A       load balancing algorithm isthe set     of rules that a load balancer          follows to determine the best          server for each of the different       client requests.
+   ![image](https://github.com/Rjesh2006/Structured_keywords.-/assets/143868643/b35fdb66-59a4-4d97-8653-47b860dc7460)
+
    
      - *Categories*:-
        
