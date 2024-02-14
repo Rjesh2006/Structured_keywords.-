@@ -51,7 +51,7 @@
       - .**BACKUPS**:- Backup storage is the supplementary, off-device storage of files and application data.
    
    
-  ### [types of storage :--]()
+  ### [types of storage :--](https://www.buurst.com/2019/06/28/choosing-aws-block-storage-type/)
 
 ![image](https://github.com/Rjesh2006/Managed_keywords/assets/143868643/9b789b6b-a6d1-4d25-bf13-b9d3c5d68433)
    
