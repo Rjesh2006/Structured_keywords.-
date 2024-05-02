@@ -158,7 +158,98 @@ he Public key infrastructure (PKI) is the set of hardware, software,policies,pro
     - Horizontal Scaling :                  "horizontally scalable" system is       one that can increase capacity         by adding more computers to the        system.
            
 
+**Networking and Communication:**
+1. **IPC (Inter-Process Communication):**
+   - **Shared Memory:** Allows multiple processes to share data by mapping a section of memory into their address spaces.
+   - **Message Passing:** Processes communicate by sending and receiving messages.
+   - **Pipes:** A unidirectional communication channel between two related processes.
+   - **Sockets:** Communication endpoint used for bidirectional data exchange over a network.
 
+2. **Memif (Memory Interface):**
+   - **High-performance memory interface:** Provides fast access to memory for networking applications.
+   - **Used in networking applications:** Enables efficient data transfer between applications and network interfaces.
+
+3. **Vpp (Vector Packet Processing):**
+   - **High-performance packet processing:** Optimizes packet processing by handling multiple packets simultaneously.
+   - **Often used in software-defined networking (SDN):** Supports flexible network management and programmability.
+
+4. **PMD (Poll Mode Driver):**
+   - **Network driver architecture for high-speed data packet processing:** Optimized for efficient packet handling in high-speed networking applications.
+
+5. **RPC (Remote Procedure Call):**
+   - **Protocol for calling a procedure on a remote system:** Allows programs to invoke procedures or functions on other systems over a network.
+   - **Encapsulates procedure parameters and results:** Hides the complexity of network communication and data marshalling from the programmer.
+
+**Concurrency and Parallelism:**
+1. **Fibre:**
+   - **Lightweight thread:** A thread of execution that operates independently but shares resources with other threads.
+   - **Concurrency:** Ability to execute multiple tasks simultaneously.
+   - **Asynchronous programming:** Programming paradigm where operations do not block the execution of the program.
+
+2. **Semaphores:**
+   - **Synchronization mechanism:** Controls access to shared resources to prevent race conditions.
+   - **Counting semaphore:** Allows a certain number of threads to access a resource concurrently.
+   - **Binary semaphore:** Acts as a mutex with a binary state (locked/unlocked).
+
+3. **Mutex (Mutual Exclusion):**
+   - **Locking mechanism to control access to shared resources:** Ensures that only one thread can access a resource at a time.
+   - **Prevents simultaneous access by multiple threads:** Avoids data corruption and inconsistencies.
+
+4. **Parallel Computing:**
+   - **Computing paradigm where multiple calculations or processes are carried out simultaneously:** Utilizes multiple processors or cores to speed up computation.
+
+**Web Development and Technologies:**
+1. **Ajax (Asynchronous JavaScript and XML):**
+   - **Web development technique for asynchronous data exchange:** Allows updating parts of a web page without reloading the whole page.
+   - **XMLHttpRequest object:** Enables communication between client-side and server-side scripts asynchronously.
+
+2. **SOAP (Simple Object Access Protocol):**
+   - **Protocol for exchanging structured information in web services:** Defines a format for messages exchanged between web services.
+   - **XML-based messaging protocol:** Messages are formatted using XML for compatibility and interoperability.
+
+3. **DOM (Document Object Model):**
+   - **Programming interface for web documents:** Represents the structure of XML or HTML documents as a tree, allowing programs to manipulate the content, structure, and style.
+   - **Provides methods and properties:** Allows access and manipulation of document elements through scripting languages like JavaScript.
+
+4. **CGI (Common Gateway Interface):**
+   - **Standard protocol for web servers to execute programs:** Enables dynamic content generation by invoking external programs in response to HTTP requests.
+   - **Generates dynamic web content:** Programs written in languages like Perl, Python, or C can generate HTML pages or other data formats dynamically.
+
+5. **Server-side Scripting:**
+   - **Executing scripts on the server to generate dynamic web content:** Allows for the customization and generation of web pages based on user input, database queries, or other parameters.
+   - **Enables interactive and data-driven web applications:** Combines server-side processing with client-side technologies like HTML, CSS, and JavaScript.
+
+6. **Thin Client:**
+   - **Lightweight client application:** Relies on server-side processing for most of its functionality.
+   - **Minimizes hardware and software requirements:** Suitable for low-powered devices and centralized computing environments.
+
+**Middleware and Distributed Systems:**
+1. **CORBA (Common Object Request Broker Architecture):**
+   - **Middleware standard for distributed computing:** Defines a platform-independent architecture and infrastructure for building distributed systems.
+   - **Enables communication between objects in different languages and platforms:** Provides interoperability and location transparency for distributed objects.
+
+2. **Stub and Skeleton:**
+   - **Stubs:** Client-side proxies for remote objects, managing communication details on behalf of clients.
+   - **Skeletons:** Server-side counterparts to stubs, implementing remote interface methods and marshalling/unmarshalling data.
+
+3. **Marshalling and Unmarshalling:**
+   - **Marshalling:** Converts data into a format suitable for transmission, ensuring compatibility between different systems.
+   - **Unmarshalling:** Reconstructs transmitted data back into its original format, maintaining data integrity and consistency.
+
+**Programming Languages and Frameworks:**
+1. **MSIL (Microsoft Intermediate Language):**
+   - **Intermediate language for .NET framework:** Used as the output of compilation from high-level languages targeting the .NET platform.
+   - **JIT compilation to native code:** Just-In-Time compilation process converts MSIL into native machine code at runtime.
+
+2. **Perl:**
+   - **Scripting language:** Known for its text processing capabilities, regular expression support, and rapid development cycle.
+   - **Powerful and flexible:** Suitable for a wide range of tasks, including system administration, web development, and data analysis.
+
+3. **Spring Boot:**
+   - **Framework for building Java applications:** Simplifies the development and deployment process, providing conventions over configuration and auto-configuration features.
+
+4. **WASM (WebAssembly):**
+   - **Binary instruction format for a stack-based virtual machine:** Enables high-performance execution on web pages
 
 
 
